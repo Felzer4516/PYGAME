@@ -1,2 +1,2 @@
 # PYGAME
- Jogo do Cacador
+#Jogo do Caçador
